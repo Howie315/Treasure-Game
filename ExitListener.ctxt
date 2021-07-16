@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExitListener
+comment0.text=\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ExitListener\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-----------------------------------------------------------|\r\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n\ \ |\ \ \ \ \ Create\ functionality\ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ for\ exiting\ game\ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ exits\ the\ game\ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ TreasureGame\ \ \ \ \ \ \ |\r\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\r\n\ \ |-------------------------------+---------------------------|\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ Purpose\:\ action\ perform\ to\ exit\ the\ program\r\n\ signature\:\ nothing\ \r\n\ example\:\ actionPerformed(ActionEvent\ e)\r\n
+numComments=2
